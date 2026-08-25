@@ -114,7 +114,7 @@ The raw data is committed to `data/raw/`. To re-download it from UCI:
 python -m src.fetch_data
 ```
 
-### Run the pipeline
+### Run the pipeline 
 
 ```bash
 python -m src.analysis              # clean, export both CSVs, write the report
