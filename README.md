@@ -7,7 +7,7 @@ pressure, heart rate and disease prevalence.
 
 The interesting part of this dataset is not the modelling — it is that **the four
 databases share a schema but not a data-collection culture**. Most of the work here is
-about noticing that, and making sure the summary statistics do not quietly lie about it.
+about noticing that, and making sure the summary statistics do not quietly lie about it. 
 
 📓 **[Read the analysis notebook →](notebooks/exploration.ipynb)**
 📊 **[Generated statistics report →](reports/summary_stats.md)**
