@@ -78,7 +78,7 @@ that is not compatible with life. They are unrecorded measurements, not low ones
 nothing in the file flags them. Averaging them in moves the pooled mean from
 **247 mg/dl to 199 mg/dl**, relabelling the whole cohort from "high" to "desirable".
 
-**3. Maximum heart rate separates the groups far better than cholesterol.**
+**3. Maximum heart rate separates the groups far better than cholesterol.** 
 `thalach` is 128 bpm in diagnosed patients against 149 bpm in the rest — a 20 bpm gap.
 Cholesterol differs by only 14 mg/dl, well inside its 58 mg/dl standard deviation.
 A heart that cannot raise its rate under exercise is the signal.
