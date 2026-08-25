@@ -1,0 +1,10 @@
+# Core — needed to run the pipeline (`python -m src.analysis`)
+pandas>=2.2
+tabulate>=0.9          # backs DataFrame.to_markdown() in src/report.py
+
+# Notebook — needed only for notebooks/exploration.ipynb
+jupyter>=1.1
+matplotlib>=3.8        # rendering backend for DataFrame.plot()
+
+# Verified against: pandas 3.0.5, numpy 2.4.6, tabulate 0.10.0,
+# matplotlib 3.11.1, jupyter 1.1.1 on Python 3.11.4.
