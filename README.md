@@ -14,7 +14,7 @@ about noticing that, and making sure the summary statistics do not quietly lie a
 
 ---
 
-## Dataset
+## Dataset 
 
 **UCI Machine Learning Repository — Heart Disease (1988).**
 [archive.ics.uci.edu/dataset/45/heart+disease](https://archive.ics.uci.edu/dataset/45/heart+disease)
