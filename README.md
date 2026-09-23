@@ -1,4 +1,4 @@
-# VitalsFrame — Health Dataset Explorer
+# VitalsFrame — Health Dataset Explorer 
 
 A Pandas exploration of four real clinical databases of patients referred for coronary
 angiography. The pipeline loads, inspects, cleans and cross-tabulates 920 patient records
